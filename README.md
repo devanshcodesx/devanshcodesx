@@ -1,6 +1,8 @@
-Hi, I’m Devansh.
+Hi, I’m **Devansh**.
 
-I spend time thinking, building, and talking to machines.
+*I spend time thinking, building, and talking to machines.*
+
+
 
 
 
