@@ -1,4 +1,8 @@
-## Hi there 👋
+Hi, I’m Devansh.
+
+I spend time thinking, building, and talking to machines.
+
+
 
 <!--
 **devanshcodesx/devanshcodesx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
